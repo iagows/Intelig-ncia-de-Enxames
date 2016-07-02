@@ -1,0 +1,3 @@
+http://www.datasus.gov.br/cid10/V2008/descrxml.htm
+
+http://www.datasus.gov.br/cid10/V2008/descrcsv.htm
