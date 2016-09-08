@@ -1,4 +1,4 @@
-# Inteligência-de-Enxames
+# Inteligência de Enxames
 Todos os projetos da cadeira
 
 ## 1
